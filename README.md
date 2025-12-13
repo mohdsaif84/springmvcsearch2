@@ -59,9 +59,7 @@ springmvcsearch2
  │   └── 4-google-result.png
  └── README.md
 
-## 📸 Project Output Screenshots
 
-![image alt](https://github.com/mohdsaif84/springmvcsearch2/blob/3fc2d4313d1235275be85d93ebab6766cfa8bd0e/home-page.png)
 
 
 
