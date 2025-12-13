@@ -1,0 +1,72 @@
+# 🔍 Search Application using Spring MVC (RedirectView)
+
+A simple Spring MVC based **Search Application** that demonstrates how to redirect user input to an external URL (Google Search) using **RedirectView**.  
+This project is designed to clearly explain **Spring MVC request flow**, controller handling, and redirection mechanism.
+
+---
+
+## 📌 Project Description
+
+This application contains a search box where users can enter any keyword.  
+After submitting the form, the request is handled by a Spring MVC controller and redirected to Google Search using `RedirectView`.
+
+The project focuses on:
+- Understanding **Spring MVC architecture**
+- Handling form data using `@RequestParam`
+- Performing external URL redirection
+- Clean separation of Controller and View (JSP)
+
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- Spring MVC
+- JSP (Java Server Pages)
+- Apache Tomcat 9
+- HTML5
+- CSS3
+- Bootstrap 4
+
+---
+
+## 📂 Project Structure (Exact as per Code)
+
+```text
+springmvcsearch2
+ ├── src
+ │   └── main
+ │       ├── java
+ │       │   └── springmvcsearch2
+ │       │       └── SearchController.java
+ │       │
+ │       ├── resources
+ │       │
+ │       └── webapp
+ │           ├── WEB-INF
+ │           │   ├── views
+ │           │   │   └── home.jsp
+ │           │   │
+ │           │   ├── spring-servlet.xml
+ │           │   └── web.xml
+ │           │
+ │           └── index.jsp
+ │
+ ├── images
+ │   ├── 1-home-page.png
+ │   ├── 2-search-ui.png
+ │   ├── 3-search-input.png
+ │   └── 4-google-result.png
+ └── README.md
+
+## 📸 Project Output Screenshots
+
+
+
+
+
+
+
+
+
+
