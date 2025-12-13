@@ -61,7 +61,7 @@ springmvcsearch2
 
 ## 📸 Project Output Screenshots
 
-![image alt](https://github.com/mohdsaif84/springmvcsearch2/blob/c8da2b12a5f689292b87f10513752fe8c3d32ca4/home-page.png)
+![image alt]([image_url](https://github.com/mohdsaif84/springmvcsearch2/blob/3fc2d4313d1235275be85d93ebab6766cfa8bd0e/home-page.png))
 
 
 
