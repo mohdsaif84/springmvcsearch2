@@ -30,10 +30,16 @@ The project focuses on:
 
 ---
 
-## 📂 Project Structure (Exact as per Code)
-
+### Home Page
 <img width="965" height="674" alt="Image" src="https://github.com/user-attachments/assets/9d3d98b5-ada0-49f8-9918-41251c940695" />
+### Search UI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3efa4ded-e553-4e62-8ca6-9c2db0404788" />
+### Search Input 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6c9a8688-0c22-401c-ad50-07dcd237ab1b" />
+### Google Result
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/85414c0d-03c8-4cd5-a604-80b933e7d635" />
 
+## 📂 Project Structure (Exact as per Code
 
 ```text
 springmvcsearch2
@@ -61,16 +67,6 @@ springmvcsearch2
  │   ├── 3-search-input.png
  │   └── 4-google-result.png
  └── README.md
-###
-<img width="965" height="674" alt="Image" src="https://github.com/user-attachments/assets/9d3d98b5-ada0-49f8-9918-41251c940695" />
-
-<img width="965" height="674" alt="Image" src="https://github.com/user-attachments/assets/64173cb0-7dc5-44c4-8192-4a9244ff588b" />
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/60d23662-acab-4c30-8b31-6edbda59d6cd" />
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8d4569aa-9430-4e09-958a-3715da6cb3f8" />
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a8d98ad0-ef33-4e6a-ac81-669a9a5e7147" />
 
 
 
