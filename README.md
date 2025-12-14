@@ -32,6 +32,9 @@ The project focuses on:
 
 ## 📂 Project Structure (Exact as per Code)
 
+<img width="965" height="674" alt="Image" src="https://github.com/user-attachments/assets/9d3d98b5-ada0-49f8-9918-41251c940695" />
+
+
 ```text
 springmvcsearch2
  ├── src
